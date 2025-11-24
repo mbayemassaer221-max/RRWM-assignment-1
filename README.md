@@ -1,4 +1,4 @@
-# Education and Wages – Analysis
+# RRWM reproducibility
 
 ## Objective
 This project studies the impact of education level on wages.
