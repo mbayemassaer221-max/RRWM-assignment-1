@@ -3,31 +3,15 @@
 ## Objective
 This project studies the impact of education level on wages.
 
-## Data
-We use Canadian population census microdata (2016).
+## RRMW1_script.R
+Is my program and codes for the RRWM reproducibility assignment. 
+I use Canadian population census microdata (2016) to analyze the impact of education level on wages.
 
-## Descriptive Statistics
-We focus on the following variables:
-- Education level  
-- Wage  
-- Age  
-- Sex  
-- Province  
+## RRWM_Claudie_code.R
+Is Claudie's codes for the RRWM reproducibility assignment.
 
-Exploratory statistics include:
-- Education × Sex  
-- Income × Sex  
-- Income × Province  
-- Education × Province  
-- Income × Education  
+## RRWM_Report.MM.docx
+Is the report discussion of Claudie's work.
 
-## Model
-We estimate a simple OLS model with fixed effects.
-
-### Regression specifications
-1. Education → Income  
-2. R1 + robust standard errors  
-3. R1 + control for sex  
-4. R3 + robust standard errors  
-5. R3 + province fixed effects  
-6. R5 + age fixed effects  
+### RRWM_replication_code.R
+Is my codes based on Claudie’s program.
